@@ -1,0 +1,134 @@
+::root {
+    --main-font: Roboto,sans-serif;
+    --secondary-font: Raleway, sans-serif;
+}
+
+.styled-link {
+    text-decoration: none;
+}
+
+.styled-list {
+    list-style-type: none;
+}
+
+.site-logo {
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+
+.nav-link {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.address-list-link {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 16px;        
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.hero-header {
+    font-family: var(--main-font);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+.hero-button {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+.description-item-header {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.description-item-text {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.team-header {
+    font-family: var(--main-font);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+}
+
+.team-member-name {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.team-member-spec {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.portfolio-header {
+    font-family: var(--main-font);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+}
+
+.portfolio-item-name {
+    font-family: var(--main-font);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.portfolio-item-description {
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.footer-link {
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+
+.footer-description {
+    font-family: var(--secondary-font);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
