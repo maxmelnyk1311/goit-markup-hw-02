@@ -17,10 +17,14 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.logo-span {
+    color: #F4F4FD;
 }
 
 .nav-link {
@@ -89,7 +93,7 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -115,6 +119,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
     text-transform: capitalize;
 }
 
@@ -185,10 +190,6 @@ body {
     letter-spacing: 0.03em;
     color: #4d5ae5;
     text-transform: uppercase;
-}
-
-.logo-span {
-    color: #F4F4FD;
 }
 
 .footer-description {
